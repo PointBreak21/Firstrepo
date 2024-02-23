@@ -1,3 +1,3 @@
 # First Repo
 
-Trying my first demo
+Trying my first repo in git
